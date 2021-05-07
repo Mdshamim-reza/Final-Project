@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+      <link rel="stylesheet" href="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/style1.css">
+    <head>
+        <meta charset="utf-8">
+        <title>Welcome to Shamim's portfolio</title>
+    </head>
+    <body>
+   <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/Shamim_Banner.jpg">
+        <table>
+            <thead>
+                 <tr>
+                    
+                       <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/home_button.html"> </th>
+                    <th> <a target="_blank" href="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/Java_scripts"> </th>
+                       <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/javascript_page.png"> </th>
+                    <th> <a target="_blank" href="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/About_myself"> </th>
+                       <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/about_me.jpg"> </th>
+                        <img src=""> </th>
+                   </tr>
+                 </thead>
+              </table>
+<h1> Hello Humans, Welcome to Shamim's world!! </h1>
+        <p>Hi all, this is my new website for my assighnment. I will be telling you about javascripts and me later on. Hope you guys will enjoy it.</p>
+    </body>
+</html>
