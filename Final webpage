@@ -18,6 +18,8 @@
                        <img src="https://github.com/Mdshamim-reza/Mdshamim-reza.github.io/blob/main/about_me.jpg"> </th>
                         <img src="https://github.com/Mdshamim-reza/Final-Project/blob/main/Final%20Project.jpg"> </th>
                         <th> <a target="_blank" href="https://www.khanacademy.org/computer-programming/spin-off-of-final-project-apr-12/6109532877963264">Spin-off of "Final Project Apr 12"</a></h2><script src="https://www.khanacademy.org/computer-programming/spin-off-of-final-project-apr-12/6109532877963264/embed.js?editor=yes&buttons=yes&author=yes&embed=yes"></script>"> </th>
+                        <h1> Catching game </h1>
+        <p>Hi all, this game is called the Catching game. In this game the user can catch red balls and green balls by moving the cursor and the bitmoji will follow the cursor. When the user gets the red balls, each time the score will decrease by 1 and by grabbing the green balls they can increase the score. If the score gets to -5, the game will stop and the user has to go back and restart the game. When the score is 10, level 2 will come, and when the score is 25, level 3 will come and the speed will increase as well. The user has to score 40 to win the game.</p>
                    </tr>
                  </thead>
               </table>
